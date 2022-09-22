@@ -1,0 +1,26 @@
+/* this is my styles.css for recipes */
+
+* {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 100px;
+    font-family: Verdana;
+    text-align: center;
+    color: rgb(175, 230, 175)
+}
+
+li {
+    font-size: 24px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.center {
+    text-align: center;
+}
